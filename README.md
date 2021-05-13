@@ -8,7 +8,7 @@ Efectele sonore produse sunt pe urma transformate in efecte vizuale.
 ## (Utilizare)
 ...
 
-## (Istoric)
+## Istoric
 
 (13.05) Crearea efectelor sonore
 
