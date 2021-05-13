@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1213.0, 570.0 ],
+		"rect" : [ 41.0, 84.0, 1213.0, 570.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -58,7 +58,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 46.0, 201.0, 130.0, 22.0 ],
-					"text" : "scale 50 5000 1 20000"
+					"text" : "scale 50 5000 1 10000"
 				}
 
 			}
@@ -256,11 +256,11 @@
 				"box" : 				{
 					"id" : "obj-11",
 					"maxclass" : "newobj",
-					"numinlets" : 2,
+					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 103.0, 296.0, 43.0, 22.0 ],
-					"text" : "cycle~"
+					"patching_rect" : [ 103.0, 296.0, 40.0, 22.0 ],
+					"text" : "rect~"
 				}
 
 			}
