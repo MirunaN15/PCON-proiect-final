@@ -1,5 +1,6 @@
-# (Titlu)
-(Scurtă descriere)
+# Intrument muzical controlat prin intensitatea luminoasa
+Amplitudinea modulației este controlata prin intensitatea luminoasa perceputa de senzorul ALS al telefonului. Datele sunt transmise in Max prin intermediul OSC-ului.
+Efectele sonore produse sunt pe urma transformate in efecte vizuale.
 
 ## (Instalare)
 ...
@@ -9,14 +10,14 @@
 
 ## (Istoric)
 
-(13.05) ...
+(13.05) Crearea efectelor sonore
 
-(3.06) ...
+(3.06) Crearea efectelor vizuale
 
-(X.06) ...
+(X.06) Optimizare
 
 ## (Link-uri)
-...
+https://www.youtube.com/watch?v=Folzepz9ioE
 
 # Dezvoltarea proiectului
 
