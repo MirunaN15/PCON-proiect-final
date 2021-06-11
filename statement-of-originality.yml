@@ -10,22 +10,27 @@ declaration: >-
 
 # add as many "name+comment" entries as necessary
 # (or remove it altogether if you haven't collaborated with anyone)
-collaboration:
-  - name:
-    comment: >-
+#collaboration:
+  #- name:
+    #comment: >-
       
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
-code:
-  - comment:
-    url:
-    licence:
+#code:
+  #- comment:
+   # url:
+    #licence:
 
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
-assets:
-  - comment:
-    url:
+assets: Sunet
+  - comment: 
+    url: https://youtu.be/TOtzaJBKhfM
+    licence:
+    
+    assets: Vizual
+  - comment: Deformation of Shape 
+    url: https://www.youtube.com/watch?v=Folzepz9ioE
     licence:
