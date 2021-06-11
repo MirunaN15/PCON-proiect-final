@@ -1,12 +1,22 @@
 # Intrument muzical controlat prin intensitatea luminoasa
-Amplitudinea modulației este controlata prin intensitatea luminoasa perceputa de senzorul ALS al telefonului. Datele sunt transmise in Max prin intermediul OSC-ului.
-Efectele sonore produse sunt pe urma transformate in efecte vizuale.
+Senzorul ALS al telefonului produce semnalele sonore si vizuale. Datele preluate de la senzori sunt transformate in mesaje de tip OSC, fiind transmise in Max.
 
 ## Instalare
-...
+Se descarca arhiva si se instaleza pe smartphone aplicatia Sensors2OSC. Host-ul aplicatie este adresa IPv4 al calculatorului.
 
-## (Utilizare)
-...
+## Utilizare
+1. Se deschide fisierul"Proiect final.maxpat"
+2. In aplicatia Sensors2OSC, se activeaza butonul "Send data" si "Light".
+3. Se apasa butonul "Play" (difuzorul)
+4. Se apasa butonul 1 X
+5. Se apasa butonul 2 X
+6. Ne asiguram ca avem deschisa fereastra "screen"
+7. Se apasa butonul "basis noise.simplex"
+8. Cu ajutorul unui led sau unei lanterne se lumineaza ecranul telefonului
+
+Legenda butoane
+Negru = Oprit
+Alb = Pornit
 
 ## Istoric
 
@@ -14,10 +24,12 @@ Efectele sonore produse sunt pe urma transformate in efecte vizuale.
 
 (3.06) Crearea efectelor vizuale
 
-(X.06) Optimizare
+(11.06) Optimizare
 
-## (Link-uri)
-https://www.youtube.com/watch?v=Folzepz9ioE
+## Link-uri
+Basic Synthesizer https://youtu.be/TOtzaJBKhfM
+Deformation of Shape https://www.youtube.com/watch?v=Folzepz9ioE
+
 
 # Dezvoltarea proiectului
 
