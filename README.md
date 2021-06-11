@@ -2,7 +2,7 @@
 Amplitudinea modulației este controlata prin intensitatea luminoasa perceputa de senzorul ALS al telefonului. Datele sunt transmise in Max prin intermediul OSC-ului.
 Efectele sonore produse sunt pe urma transformate in efecte vizuale.
 
-## (Instalare)
+## Instalare
 ...
 
 ## (Utilizare)
