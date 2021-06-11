@@ -14,9 +14,7 @@ Se descarca arhiva si se instaleza pe smartphone aplicatia Sensors2OSC. Host-ul 
 7. Se apasa butonul "basis noise.simplex"
 8. Cu ajutorul unui led sau unei lanterne se lumineaza ecranul telefonului
 
-Legenda butoane
-Negru = Oprit
-Alb = Pornit
+Legenda butoane: Negru = Oprit; Alb = Pornit
 
 ## Istoric
 
